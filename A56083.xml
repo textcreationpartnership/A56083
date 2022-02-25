@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Protestant catechisme for little children, or Plain scripture against popery</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56083</idno>
+            <idno type="STC">Wing P3824</idno>
+            <idno type="STC">ESTC R219590</idno>
+            <idno type="EEBO-CITATION">99831051</idno>
+            <idno type="PROQUEST">99831051</idno>
+            <idno type="VID">35513</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35513)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2038:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Protestant catechisme for little children, or Plain scripture against popery</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Parkhurst, at the Bible and three Crowns in Cheap-side, near Mercers Chappell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3 reads: A Protestant catechisme for little children, &amp;c.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35513:1" rendition="simple:additions"/>
+            <p>A Proteſtant CATECHISME FOR Little Children, OR Plain Scripture againſt POPERY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and three <hi>Crowns</hi> in <hi>Cheap-ſide,</hi> near <hi>Mercers</hi> Chappell, 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:35513:2"/>
+            <pb n="3" facs="tcp:35513:2"/>
+            <head>A PROTESTANT Catechiſme for little CHILDREN, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">
+               <hi>1. Q. WHat Miracles is your Religi<g ref="char:EOLhyphen"/>on confirned by?</hi>
+            </p>
+            <p>A. Divine, <hi>Mark. 16, 17, 18.20.</hi> Theſe ſignes ſhall follow them that beleive: in my Name ſhall they caſt out Devils, they ſhall ſpeak with new Tongues, they ſhall take up Serpents, and if they drink any deadly thing, it ſhall not hurt them. And they went forth, and preached eve<g ref="char:EOLhyphen"/>ry where. The Lord working with them, and confirming the Word with ſignes following.</p>
+            <p n="2">
+               <hi>2. Q. What confirmation hath the Popiſh way?</hi>
+            </p>
+            <p>A. Deviliſh. <hi>2. Theſſ. 2.9.</hi> After the working of Satan, with all Powers, and Signes, and lying Wonders.</p>
+            <p n="3">
+               <hi>3. Q. Are the Apocrypha Books to be owned as Gods Word?</hi>
+            </p>
+            <pb n="4" facs="tcp:35513:3"/>
+            <p>A. No. <hi>Pro. 30.5, 6.</hi> Every word of God is pure: add thou not unto his words, leaſt he reprove thee, and thou be found a lyar.</p>
+            <p n="4">
+               <hi>4. Q. Is the Scripture ſufficient for us without unwritten Traditions?</hi>
+            </p>
+            <p>A. Yes. <hi>2. Tim. 3.16, 17.</hi> All Scripture is given by inſpiration of God, and is pro<g ref="char:EOLhyphen"/>fitable for Doctrine, for reproofe, for cor<g ref="char:EOLhyphen"/>rection, for inſtruction in righteouſneſs: that the man of God may be perfect throughly fur<g ref="char:EOLhyphen"/>niſhed unto all good works.</p>
+            <p n="5">
+               <hi>5. Q. Is it fit for the common people to read the Scriptures?</hi>
+            </p>
+            <p>A. Yes. <hi>Acts 17.11, 12.</hi> Theſe were more noble then thoſe in <hi>Theſſalonica,</hi> in that they received the Word with all readyneſs of mind, and ſearched the Scriptures dayly, whether thoſe things were ſo. Therefore many of them believed.</p>
+            <p n="6">
+               <hi>6. Q. Are we bound to own the</hi> Popes <hi>inter<g ref="char:EOLhyphen"/>pretation of Scripture?</hi>
+            </p>
+            <p>A. No. <hi>2 Pet. 1.20, 21.</hi> knowing this firſt, that no Prophecy of the Scripture is of any private interpretation: for the Prophecy came not in old time by the will of Man: but holy men of God ſpake as they were moved by the Holy Ghoſt.</p>
+            <p n="7">
+               <hi>7. Q. Are all things neceſſary to Salvation plainly to be found in Scripture?</hi>
+            </p>
+            <p>A. Yes. <hi>2 Tim. 3.15.</hi> From a Child thou haſt
+<pb n="5" facs="tcp:35513:3"/>known the holy Scriptures, which are able to make thee wiſe unto ſalvation.</p>
+            <p n="8">
+               <hi>8. Q. Is the Church of</hi> Rome <hi>Mother and Mi<g ref="char:EOLhyphen"/>ſtreſs of all Churches?</hi>
+            </p>
+            <p>A. No. <hi>Gal. 4.26.</hi> But <hi>Jeruſalem</hi> which is above is free, which is the Mother of us all.</p>
+            <p n="9">
+               <hi>9. Q. Ought we firmly to receive and embrace all cuſtomes and conſtitutions of the</hi> Roman <hi>Church?</hi>
+            </p>
+            <p>A. No. <hi>Acts 15.28, 29.</hi> For it ſeemed good unto the holy Ghoſt, and to us, to lay up<g ref="char:EOLhyphen"/>on you no greater burden than theſe neceſſary things: that ye abſtain from Meats offered to Idols, and from blood, and from things<g ref="char:EOLhyphen"/>ſtrangled, and from Fornication.</p>
+            <p n="10">
+               <hi>10. Q. Ought all things delivered by the councell of</hi> Trent <hi>to be undoubtedly received?</hi>
+            </p>
+            <p>A. No. <hi>1 Tim. 4.1, 2, 3.</hi> The ſpirit ſpeak<g ref="char:EOLhyphen"/>eth expreſly, that in the latter times ſome ſhall depart from the Faith, giving heed to ſedu<g ref="char:EOLhyphen"/>cing ſpirits and doctrines of Devils; ſpeaking lyes in Hipocricy, having their conſcience ſear<g ref="char:EOLhyphen"/>ed with a hot Iron: forbiding to Marry.</p>
+            <p n="11">
+               <hi>11. Q. Is outward proſperity a note of the true Church?</hi>
+            </p>
+            <p>A. No. <hi>1. Cor. 15.19.</hi> If in this life on<g ref="char:EOLhyphen"/>ly we have hope in Chriſt, we are of all men moſt miſerable.</p>
+            <p n="12">
+               <hi>12. Q. Do you not dread the</hi> Popes <hi>Buls?</hi>
+            </p>
+            <p>A. No. <hi>Mar. 16.16.</hi> He that believeth, and
+<pb n="6" facs="tcp:35513:4"/>is baptized, ſhall be ſaved.</p>
+            <p n="13">
+               <hi>13. Q. Hath the</hi> Pope <hi>Authority to depoſe Kings?</hi>
+            </p>
+            <p>A. No. <hi>1 Pet. 2.13, 14, 15.</hi> Submit your ſelves to every ordinance of man for the Lords ſake; whether it be to the King as ſupream, or unto Governours, as unto them that are ſent by him, for the puniſhment of evil doers, and for the praiſe of them that do well. For ſo is the will of God.</p>
+            <p n="14">
+               <hi>14. Q. May the</hi> Pope <hi>abſolve us from our Oath of Allegiance?</hi>
+            </p>
+            <p>A. No. <hi>Ecc. 8.2.</hi> Keep the Kings com<g ref="char:EOLhyphen"/>mandment, and that in regard of the Oath of God.</p>
+            <p n="15">
+               <hi>15. Q. May the</hi> Pope <hi>diſpence with Gods Commands?</hi>
+            </p>
+            <p>A. No. <hi>Mat. 5.19.</hi> Whoſoever ſhall break one of theſe leaſt Commandements, and ſhall teach men ſo, he ſhall be called the leaſt in the Kingdom of Heaven.</p>
+            <p n="16">
+               <hi>16. Q. Have</hi> Peterpence <hi>their Original from</hi> Peter?</p>
+            <p>A. No. <hi>Acts 3.6. Peter</hi> ſaid, Silver and Gold have I none.</p>
+            <p n="17">
+               <hi>17. Q. Is the Praelate of</hi> Rome Peters <hi>Suc<g ref="char:EOLhyphen"/>ceſſour?</hi>
+            </p>
+            <p>A. No. <hi>Gal. 2.7, 8, 9.</hi> But contrarywiſe, when they ſaw, that the goſpel of the <g ref="char:V">Ʋ</g>ncir<g ref="char:EOLhyphen"/>cumciſion was comitted unto Me, as the goſpel
+<pb n="7" facs="tcp:35513:4"/>of the Circumciſion was unto <hi>Peter:</hi> (for he that wrought affectually in <hi>Peter</hi> to the Apoſtil<g ref="char:EOLhyphen"/>ſhip of the circumciſion; The ſame was mighty in me towards the Gentiles.) And when <hi>James, Cephas,</hi> and <hi>John,</hi> who ſeemed to be Pillars, perceived the grace that was given unto me, they gave to Me and <hi>Barnabas</hi> the right hands of fellowſhip, that we ſhould go unto the Hea<g ref="char:EOLhyphen"/>then, and they unto the Circumciſion.</p>
+            <p n="18">
+               <hi>18. Q. Is there on Earth, one viſible head of the Church?</hi>
+            </p>
+            <p>A. No. <hi>Eph. 4.4, 5, 6.</hi> There is one Body, and one Spirit, even as you are called in one hope of your calling, one Lord, one Faith, one Bap<g ref="char:EOLhyphen"/>tiſm, one God and Father of All.</p>
+            <p n="19">
+               <hi>19. Q. Is the Popedome an office in the Mini<g ref="char:EOLhyphen"/>ſtry?</hi>
+            </p>
+            <p>A. No. <hi>Eph. 4.11, 12.</hi> He gave ſome Apoſtles, and ſome Prophets, and ſome Evan<g ref="char:EOLhyphen"/>geliſts, and ſome Paſtors and Teachers; for the perfecting of the Saints, for the work of the Miniſtry, for the edifying of the body of Chriſt.</p>
+            <p n="20">
+               <hi>20. Q. Is the</hi> Pope <hi>rightly termed His Holi<g ref="char:EOLhyphen"/>neſs?</hi>
+            </p>
+            <p>A. No. <hi>2 Th. 2.3.</hi> That man of ſin.</p>
+            <p n="21">
+               <hi>21. Q. Is the</hi> Popes <hi>power from God or from Satan?</hi>
+            </p>
+            <pb n="8" facs="tcp:35513:5"/>
+            <p>A. Satan, <hi>Rev. 13.2.</hi> The Dragon gave him his Power, and his Seat, and great Au<g ref="char:EOLhyphen"/>thority.</p>
+            <p n="22">
+               <hi>22. Q. Are the Clergy exempt from under the civil Juriſdiction?</hi>
+            </p>
+            <p>A. No. <hi>Rom. 13.1.</hi> Let every ſoul be ſub<g ref="char:EOLhyphen"/>ject unto the higher Powers: for there is no Power but of God.</p>
+            <p n="23">
+               <hi>23. Q. Is it fit that Miniſters ſhould be Marri<g ref="char:EOLhyphen"/>ed?</hi>
+            </p>
+            <p>A. Yes. <hi>1 Tim. 3.2.4.</hi> A Biſhop muſt be blameleſs, the Husband of one Wife, having his Children in ſubjection.</p>
+            <p n="24">
+               <hi>24. Q. Do you approve of munkiſh Vowes of ſingle life?</hi>
+            </p>
+            <p>A. No. <hi>1 Cor. 7.9.</hi> If they cannot con<g ref="char:EOLhyphen"/>tain, let them Marry: for it is better to mar<g ref="char:EOLhyphen"/>ry than to burn.</p>
+            <p n="25">
+               <hi>25. Q. Are the Popiſh Feſtivals to be approv<g ref="char:EOLhyphen"/>ed?</hi>
+            </p>
+            <p>A. No. <hi>Gal. 4.9, 10.</hi> How turn you again to the weak and beggarly Elements, whereunto ye deſire again to be in bondage? Ye obſerve Dayes, and Months, and Times, and Years.</p>
+            <p n="26">
+               <hi>26. Q. Do you forbear fleſh Meats on the Po<g ref="char:EOLhyphen"/>piſh faſting dayes?</hi>
+            </p>
+            <p>A. Nay. <hi>1 Tim. 4.4, 5.</hi> For every crea<g ref="char:EOLhyphen"/>ture of God is good, and nothing to be refuſed, if it be received with thanksgiving: for it is ſanctified by the Word of God, and Prayer.</p>
+            <pb n="9" facs="tcp:35513:5"/>
+            <p n="27">
+               <hi>27. Q. May we worſhip Angels?</hi>
+            </p>
+            <p>A. No. <hi>Rev. 22.8, 9.</hi> I fell down to wor<g ref="char:EOLhyphen"/>ſhip before the feet of the Angel, which ſhewed me theſe things. Then ſaith he unto me, ſee thou do it not: for I am thy fellow Servant, and of thy brethren the Prophets, and of them which keep the ſayings of this Book: worſhip God.</p>
+            <p n="28">
+               <hi>28. Q. Is it lawfull to pray to an Image?</hi>
+            </p>
+            <p>A. No. <hi>Iſ. 45.20.</hi> They have no knowledge, that ſet up the wood of their Graven Image, and pray unto a God that cannot ſave.</p>
+            <p n="29">
+               <hi>29. Q. Is it lawfull to worſhip Images?</hi>
+            </p>
+            <p>A. No. <hi>Ex. 20.4, 5.</hi> Thou ſhalt not make unto thee any graven Image, or any likeneſs of any thing that is in Heaven above, or that is in the Earth beneath, or that is in the Water un<g ref="char:EOLhyphen"/>der the Earth. Thou ſhalt not bow down thy ſelf to them, nor ſerve them: For I the Lord thy God am a jealous God, viſiting the iniquity of the Fathers upon the Children, unto the third and fourth Generation of them that hate me.</p>
+            <p n="30">
+               <hi>30. Q. Do the Papiſts well in leaving out the ſecond Commandment?</hi>
+            </p>
+            <p>A. No. <hi>Deu. 4.13.</hi> He declarded unto you his Covenant, which he commanded you to per<g ref="char:EOLhyphen"/>form. Even Ten Commandments, and he wrote them upon two tables of Stone.</p>
+            <p n="31">
+               <hi>31. Q. Is, thou ſhalt not covet thy Neighbours Wife, the Ninth Commandment?</hi>
+            </p>
+            <p>A. No. <hi>Exod. 20.17.</hi> Thou ſhalt not covet
+<pb n="10" facs="tcp:35513:6"/>thy Neighbours Houſe, thou ſhalt not covet thy neighbours Wife, nor his Man ſervant, nor his Maid ſervant, nor his Oxe, nor his Aſs, nor any thing that is thy Neighbours.</p>
+            <p n="32">
+               <hi>32. Q. Are the Relicks of Saints to be wor<g ref="char:EOLhyphen"/>ſhiped?</hi>
+            </p>
+            <p>A. No. <hi>Acts 14.15.</hi> Sirs, why do ye theſe things? we alſo are men of like paſſions with you, and preach unto you, that ye ſhould turn from theſe Vanities, unto the living God.</p>
+            <p n="33">
+               <hi>33. Q. May I worſhip a Crucifix?</hi>
+            </p>
+            <p>A. No. <hi>Luk. 4.8.</hi> For it is written, thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve.</p>
+            <p n="34">
+               <hi>34. Q. May we pray to the Virgin</hi> Mary.</p>
+            <p>A. No. <hi>Luk. 11.2.</hi> When ye pray, ſay, Our Father which art in Heaven.</p>
+            <p n="35">
+               <hi>35. Q. May we pray to Saints?</hi>
+            </p>
+            <p>A. No. <hi>Acts 10.25.26.</hi> As <hi>Peter</hi> was com<g ref="char:EOLhyphen"/>ing in, <hi>Cornelius</hi> met him, and fell down at his feet, and worſhipped him. But <hi>Peter</hi> took him up, ſaying, ſtand up. I my ſelf alſo am a man.</p>
+            <p n="36">
+               <hi>36. Q. Are</hi> Latine <hi>Prayers to be uſed in a con<g ref="char:EOLhyphen"/>gregation that underſtand not that Language?</hi>
+            </p>
+            <p>A. No. <hi>1 Cor. 14.14, 15.</hi> For if I pray in an unknown Tongue, my Spirit prayeth, but my underſtanding is unfruitfull. What is it then? I will pray with the ſpirit, and will pray with the underſtand alſo.</p>
+            <pb n="11" facs="tcp:35513:6"/>
+            <p n="37">
+               <hi>37. Q. May a Chriſtian be in this life aſſured of ſalvation?</hi>
+            </p>
+            <p>A. Yea. <hi>1 Joh. 3.14.</hi> We know that we have paſſed from death unto life, becauſe we love the brethren.</p>
+            <p n="38">
+               <hi>38. Q. Is ſalvation to be attained by the Me<g ref="char:EOLhyphen"/>rits and Grace of Saints departed?</hi>
+            </p>
+            <p>A. No. <hi>Gal. 6.4, 5.</hi> But let every man prove his own work, and then ſhall he have re<g ref="char:EOLhyphen"/>joycing in himſelf alone, and not in another. For every man ſhall bare his own burden.</p>
+            <p n="39">
+               <hi>39. Q. Are the ſouls of the deceaſed helped by the ſuffrages of the faithful?</hi>
+            </p>
+            <p>A. No. <hi>Luk. 12.58, 59.</hi> When thou goeſt with thine Adverſary to the Magiſtrate; as thou art in the way, give diligence, that thou mayeſt be delivered from him, leſt he hale thee to the Judge, and the Judge deliver thee to the Officer, and the Officer caſt thee into Priſon. I tell thee, thou ſhalt not depart thence, till thou haſt payed the very laſt Mite.</p>
+            <p n="40">
+               <hi>40. Q. Are there works of Superrogation.</hi>
+            </p>
+            <p>A. No. <hi>Mat. 22.37, 38, 39, 40.</hi> Thou ſhalt love the Lord thy God with all thy Heart, and with all thy Soul, and with all thy Mind. This is the firſt and great Commandment, and the ſecond is like unto it. Thou ſhalt love thy Neighbour as thy Self. On theſe two Com<g ref="char:EOLhyphen"/>mandments hang all the Law and the Prophets.</p>
+            <p n="41">
+               <hi>41. Q. Is the Virgin</hi> Mary <hi>our Saviour?</hi>
+            </p>
+            <pb n="12" facs="tcp:35513:7"/>
+            <p>A. No, <hi>Acts 4.10, 11, 12.</hi> Jeſus Chriſt is be<g ref="char:EOLhyphen"/>come the head of the Corner, neither is there ſalvation in any other.</p>
+            <p n="42">
+               <hi>42. Q. Are all ſins deadly, or but ſeven?</hi>
+            </p>
+            <p>A. All. <hi>Ro. 6.23.</hi> For the wages of ſin is Death.</p>
+            <p n="43">
+               <hi>43. Q. Is there a Purgatory to cleanſe the righteouſs from the Sins, for which they have not ſatisfied in their life time?</hi>
+            </p>
+            <p>A. No. <hi>1 Joh. 1.7.</hi> The blood of Jeſus Chriſt cleanſeth us from all ſin.</p>
+            <p n="44">
+               <hi>44. Q. Can we deſerve Salvation?</hi>
+            </p>
+            <p>A. No. <hi>Rom. 3.27, 28.</hi> Where is boaſting then! it is excluded. By what Law of works? Nay, by the Law of Faith. Therefore we con<g ref="char:EOLhyphen"/>clude, that a man is juſtified by Faith, without the deedes of the Law.</p>
+            <p n="45">
+               <hi>45. Q. May Pardons be bought?</hi>
+            </p>
+            <p>A. No. <hi>1 Pet. 1.18.</hi> For aſmuch as ye know that ye were not redeemed with corruptible things, as Silver and Gold.</p>
+            <p n="46">
+               <hi>46. Q. Is Concupiſcence in the Baptized ſin?</hi>
+            </p>
+            <p>A. Yea. <hi>Rom. 7.7.</hi> I had not known Sin, but by the Law: For I had not known Luſt, except the Law had ſaid, thou ſhalt not Co<g ref="char:EOLhyphen"/>vet.</p>
+            <p n="47">
+               <hi>47. Q. Is the practice of Baptizing Bels war<g ref="char:EOLhyphen"/>rantable?</hi>
+            </p>
+            <p>A. No. <hi>Mat. 28.19, 20.</hi> Teach all Nations, Baptizing them in the Name of the Father,
+<pb n="13" facs="tcp:35513:7"/>and of the Son, and of the Holy Ghoſt: teach<g ref="char:EOLhyphen"/>ing them to obſerve all things, Whatſoever I have commanded you.</p>
+            <p n="48">
+               <hi>48. Q. Is the Maſs a ſacrifice for the Quick and the Dead?</hi>
+            </p>
+            <p>A. No. <hi>Heb. 10.14.</hi> For by one Offering, he hath perfected for ever them that are ſanctified.</p>
+            <p n="49">
+               <hi>49. Q. Ought they which have right to the Lords Table, to partake of the Cup, as well as of the Bread?</hi>
+            </p>
+            <p>A. Yes. <hi>Mat. 26.26, 27.</hi> As they were eat<g ref="char:EOLhyphen"/>ing, Jeſus took Bread, and bleſſed it, and brake it, and gave it to the Diſciples, and ſaid, Take, Eat, this is my Body. And he took the Cup, and gave thanks, and gave it to them, ſaying, drink ye all of it.</p>
+            <p n="50">
+               <hi>50. Q. Doth the Bread in the Communion re<g ref="char:EOLhyphen"/>main Bread after the words of Conſecration?</hi>
+            </p>
+            <p>A. Yes. <hi>1 Cor. 11.26, 27, 28.</hi> For as of<g ref="char:EOLhyphen"/>ten as ye eat this Bread, and drink this Cup, ye do ſhew the Lords death till he come: where<g ref="char:EOLhyphen"/>fore, whoſoever ſhall eat this Bread, and drink this Cup of the Lord unworthyly, ſhall be guil<g ref="char:EOLhyphen"/>ty of the Body and Blood of the Lord. But let a man examine himſelf, and ſo let him eat of that Bread, and drink of that Cup.</p>
+            <p n="51">
+               <hi>51. Q. Is</hi> Rome <hi>ſtiled</hi> Babylon <hi>in the Revela<g ref="char:EOLhyphen"/>tion?</hi>
+            </p>
+            <p>A. Yea. <hi>Rev. 17.3.5.9.18.</hi> I ſaw a woman ſit upon a Scarlet-coloured Beaſt, full of names
+<pb n="14" facs="tcp:35513:8"/>of Blaſphemy, having ſeven Heads: and up<g ref="char:EOLhyphen"/>on her forehead was a name written, <hi>Myſtery, Babylon the Great, the Mother of Harlots, and Abomination of the Earth.</hi> The ſeven Heads are ſeven Mountains, on which the Woman ſitteth; and the woman which thou ſaw<g ref="char:EOLhyphen"/>eſt, is that great City which reigneth over the Kings of the Earth.</p>
+            <p n="52">
+               <hi>52. Q. May we joyn with</hi> Rome?</p>
+            <p>A. No. <hi>Rev. 18.4, 5.</hi> I hear'd a voyce from Heaven, ſaying, come out of her my People, that ye be not partakers of her Sins, and that ye receive not of her Plagues. For her ſins have reached unto Heaven, and God hath re<g ref="char:EOLhyphen"/>membred her iniquities.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35513:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
